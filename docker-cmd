@@ -1,0 +1,1 @@
+docker run --rm -ti -v C:\WorkSpace\Go-by-example\tutorials\:/go/src  --name goland golang:1.16-alpine

@@ -9,6 +9,7 @@ import ( // All imports need to be in double quotes or in ()
 
 func test() {
 	fmt.Println("Welcome to Go!")
+	fmt.Println("Go through a docker volume!!!!")
 }
 
 func random() {
